@@ -8,7 +8,7 @@
 <div align="left">
 <!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
   <a href="https://twitter.com/aditisingh2003" target="blank"><img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height ="35"/></a> 
-  <a href ='ttps://instagram.com/aadhiii_tea_'>
+  <a href ='https://instagram.com/aadhiii_tea_'>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="[instagram logo](https://instagram.com/aadhiii_tea_)"  /></a>
 <!--   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
